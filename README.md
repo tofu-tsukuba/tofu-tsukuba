@@ -3,6 +3,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofu-tsukuba&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu-tsukuba)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tofu-tsukuba&theme=dark&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tofu-tsukuba&theme=dark&repo=convoychat" />
+</a>
+
 <!--
 **tofu-tsukuba/tofu-tsukuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
